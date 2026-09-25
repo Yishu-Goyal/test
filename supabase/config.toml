@@ -1,0 +1,2 @@
+[functions.verify-trc20-deposit]
+verify_jwt = false
